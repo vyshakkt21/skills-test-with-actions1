@@ -33,3 +33,7 @@ jobs:
     - name: Test with pytest
       run: |
         pytest --verbose
+
+- name: Test with pytest
+  run: |
+    pytest --verbose
